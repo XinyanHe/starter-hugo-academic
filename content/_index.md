@@ -192,8 +192,8 @@ sections:
   #     subtitle: ''
   #     text: |-
   #       {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
