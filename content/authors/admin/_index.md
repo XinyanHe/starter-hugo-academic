@@ -18,17 +18,17 @@ role: Undergrad CS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Torontos
+  - name: University of Toronto
     url: https://www.utoronto.ca/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Education to show in About widget
 education:
