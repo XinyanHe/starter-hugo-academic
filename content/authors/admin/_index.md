@@ -11,10 +11,16 @@ status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # Role/position/tagline
 role: Undergrad CS Student
+
+# Interests to show in About widget
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Organizations/Affiliations to show in About widget
 organizations:
